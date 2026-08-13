@@ -109,8 +109,8 @@
         <!-- Spring Context -->
         <dependency>
             <groupId>org.springframework</groupId>
-            <artifactId>spring-context</artifactId>
-            <version>${spring.version}</version>
+            <artifactId>maven-web-application-Kkfunda</artifactId>
+            <version>1.2.0-SNAPSHOT</version>
         </dependency>
 
     </dependencies>
@@ -125,13 +125,13 @@
         <repository>
             <id>nexus</id>
             <name>KK FUNDA Releases Nexus Repository</name>
-            <url>http://172.31.40.189:8081/repository/flipkart-release/</url>
+            <url>http://13.235.74.56:8081/repository/jio-release-repo/</url>
         </repository>
 
         <snapshotRepository>
             <id>nexus</id>
             <name>KK FUNDA Snapshot Nexus Repository</name>
-            <url>http://172.31.40.189:8081/repository/flipkart-snapshot/</url>
+            <url>http://13.235.74.56:8081/repository/Jio-Project-Snapshot/</url>
         </snapshotRepository>
 
     </distributionManagement>
