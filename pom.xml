@@ -30,8 +30,8 @@
         <spring.version>5.3.34</spring.version>
 
         <!-- SonarQube Server -->
-        <sonar.host.url>http://13.126.22.13:9000</sonar.host.url>
-        <sonar.token>squ_7c7d3a404f7b2f0783f75521135da30a24af89a5</sonar.token>
+        <sonar.host.url>http://13.126.22.13:9000/</sonar.host.url>
+        <sonar.tokensqu_b9f66e44c98def36f327cfcfee3618220e61f508</sonar.token>
 
         <!-- Encoding -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
