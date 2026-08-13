@@ -31,7 +31,7 @@
 
         <!-- SonarQube Server -->
         <sonar.host.url>http://13.126.22.13:9000/</sonar.host.url>
-        <sonar.token>squ_7192e275a8b7e00ea81c9cc82d66c77d91292e29</sonar.token>
+        
 
         <!-- Encoding -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
